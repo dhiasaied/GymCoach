@@ -1,8 +1,5 @@
 # GymCoach — Documentation du projet
 
-**Version :** 2.0.4  
-**Plateforme :** Application mobile multiplateforme (Flutter)  
-**Date :** Juin 2026
 
 ---
 
